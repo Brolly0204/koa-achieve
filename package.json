@@ -1,0 +1,20 @@
+{
+  "name": "koa-achieve",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lwenli1224/koa-achieve.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lwenli1224/koa-achieve/issues"
+  },
+  "homepage": "https://github.com/Lwenli1224/koa-achieve#readme"
+}
